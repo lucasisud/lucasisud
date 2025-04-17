@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development.
 - 📫 How to reach me 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i can code
+- ⚡ Fun fact: I'm from norway.
 
 <!---
 lucasisud/lucasisud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
