@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lucasisud or lucas.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning web development.
-- 📫 How to reach me 
+- 📫 How to reach me. my discords, lucas_frfr
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm from norway.
 
