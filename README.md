@@ -11,3 +11,5 @@ I'm lucas, i'm a dev that like's C#, HTML, CSS, and javascript. and python somet
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lucasisud&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
