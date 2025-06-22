@@ -1,6 +1,4 @@
-## Connect with me
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1167824650491920424)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1167824650491920424?theme=light&bg=809ecf&animated=false&hideDiscrim=false&borderRadius=30px&idleMessage=appearing%20offline!)](https://discord.com/users/1167824650491920424)
 
 
 
