@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/1167824650491920424?theme=light&bg=809ecf&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Offline)](https://discord.com/users/1167824650491920424)
+[Discord](https://discord.com/users/1167824650491920424)
 
 # 💫 About Me:
 I'm currently working on C++ projects mostly<br>I'm currently learning C++ and web devlopment.<br>
