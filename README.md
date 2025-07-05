@@ -47,11 +47,8 @@
     Diving into <strong>C#</strong>, <strong>React</strong>, <strong>Koltin</strong>
 
   <!-- Connect -->
-  <h3 style="font-size: 22px; margin: 40px 0 10px;">🌐 Let's Connect</h3>
   <p>
-    <a href="https://github.com/lucasfr" target="_blank" style="color: #4FC3F7; text-decoration: none; margin: 0 12px; font-weight: 500;">GitHub</a>
-    <a href="https://discord.com/users/yourid" target="_blank" style="color: #7289da; text-decoration: none; margin: 0 12px; font-weight: 500;">Discord</a>
-    <a href="mailto:lucas@example.com" style="color: #FF7043; text-decoration: none; margin: 0 12px; font-weight: 500;">Email</a>
+
   </p>
 
 </div>
