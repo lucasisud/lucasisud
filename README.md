@@ -1,8 +1,8 @@
 <!-- Lucas Bio Section -->
-<div style="font-family: 'Segoe UI', sans-serif; text-align: center; padding: 60px 30px; background: #0d0d0d; color: #f2f2f2; line-height: 1.6;">
+<div style="font-family: 'Bricolage Grotesque', sans-serif; text-align: center; padding: 60px 30px; background: #0d0d0d; color: #f2f2f2; line-height: 1.6;">
 
   <!-- Intro -->
-  <h1 style="font-size: 48px; margin-bottom: 10px;">👋 Hey, I'm <span style="color: #4FC3F7;">Lucas</span></h1>
+  <h1 style="font-size: 48px; margin-bottom: 10px;">Hey, I'm <span style="color: #4FC3F7;">Lucas</span></h1>
   <h2 style="font-size: 22px; font-weight: 400; color: #bbb;">Frontend Developer</h2>
   <p style="margin: 20px auto; font-size: 16px; color: #aaa; max-width: 640px;">
    I like turning ugly pages into good looking pages. 
