@@ -3,10 +3,9 @@
 
   <!-- Intro -->
   <h1 style="font-size: 48px; margin-bottom: 10px;">👋 Hey, I'm <span style="color: #4FC3F7;">Lucas</span></h1>
-  <h2 style="font-size: 22px; font-weight: 400; color: #bbb;">Frontend Developer · UI Enthusiast · Code Aesthetician</h2>
+  <h2 style="font-size: 22px; font-weight: 400; color: #bbb;">Frontend Developer</h2>
   <p style="margin: 20px auto; font-size: 16px; color: #aaa; max-width: 640px;">
-    I turn ideas into beautifully interactive web experiences — responsive, fast, and clean with a touch of aesthetic magic. 
-    I love pushing pixels and perfecting interactions that make users go "wow."
+   I like turning ugly pages into good looking pages. 
   </p>
 
   <!-- Profile View Counter -->
