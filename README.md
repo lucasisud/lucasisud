@@ -1,23 +1,24 @@
 <!-- Lucas Bio Section -->
-<div style="font-family: 'Segoe UI', sans-serif; text-align: center; padding: 60px 30px; background: #0d0d0d; color: #f2f2f2;">
+<div style="font-family: 'Segoe UI', sans-serif; text-align: center; padding: 60px 30px; background: #0d0d0d; color: #f2f2f2; line-height: 1.6;">
 
   <!-- Intro -->
-  <h1 style="font-size: 48px; margin-bottom: 10px;">👋 Hi, I'm <span style="color: #4FC3F7;">Lucas</span></h1>
-  <h2 style="font-size: 24px; font-weight: 300; color: #aaa;">Frontend Developer · UI Enthusiast · Code Aesthetician</h2>
-  <p style="margin-top: 10px; font-size: 16px; color: #888; max-width: 600px; margin-left: auto; margin-right: auto;">
-    I turn ideas into beautifully interactive web experiences. I love crafting responsive, fast, and clean UIs — with extra polish.
+  <h1 style="font-size: 48px; margin-bottom: 10px;">👋 Hey, I'm <span style="color: #4FC3F7;">Lucas</span></h1>
+  <h2 style="font-size: 22px; font-weight: 400; color: #bbb;">Frontend Developer · UI Enthusiast · Code Aesthetician</h2>
+  <p style="margin: 20px auto; font-size: 16px; color: #aaa; max-width: 640px;">
+    I turn ideas into beautifully interactive web experiences — responsive, fast, and clean with a touch of aesthetic magic. 
+    I love pushing pixels and perfecting interactions that make users go "wow."
   </p>
 
   <!-- Profile View Counter -->
-  <p style="margin-top: 15px;">
+  <div style="margin-top: 15px;">
     <img src="https://komarev.com/ghpvc/?username=lucasfr&label=Profile%20Views&color=4FC3F7&style=flat-square" alt="Profile views" />
-  </p>
+  </div>
 
-  <hr style="margin: 40px auto; width: 180px; border: 1px solid #333;" />
+  <hr style="margin: 50px auto; width: 200px; border: 1px solid #333;" />
 
   <!-- Languages & Tools -->
-  <h3 style="font-size: 22px; margin-bottom: 20px;">🧰 Languages & Tools I Use</h3>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <h3 style="font-size: 22px; margin-bottom: 25px;">🧰 Languages & Tools I Work With</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px;">
 
     <a href="https://developer.android.com" target="_blank" title="Android">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="50" alt="Android" />
@@ -39,17 +40,19 @@
     </a>
   </div>
 
-  <hr style="margin: 40px auto; width: 180px; border: 1px solid #333;" />
+  <hr style="margin: 50px auto; width: 200px; border: 1px solid #333;" />
 
-  <!-- More About Me -->
-  <h3 style="font-size: 22px; margin-bottom: 10px;">🧠 What I'm Learning</h3>
-  <p style="color: #ccc; font-size: 16px;">Rust, WebGL, Next.js, and building my own game engine.</p>
+  <!-- Learning Section -->
+  <h3 style="font-size: 22px; margin-bottom: 10px;">🧠 Currently Exploring</h3>
+  <p style="color: #ccc; font-size: 16px;">
+    Diving into <strong>C#</strong>, <strong>React</strong>, <strong>Koltin</strong>
 
-  <h3 style="font-size: 22px; margin: 30px 0 10px;">🌐 Connect With Me</h3>
+  <!-- Connect -->
+  <h3 style="font-size: 22px; margin: 40px 0 10px;">🌐 Let's Connect</h3>
   <p>
-    <a href="https://github.com/lucasfr" target="_blank" style="color: #4FC3F7; text-decoration: none; margin: 0 10px;">GitHub</a>
-    <a href="https://discord.com/users/yourid" target="_blank" style="color: #7289da; text-decoration: none; margin: 0 10px;">Discord</a>
-    <a href="mailto:lucas@example.com" style="color: #FF7043; text-decoration: none; margin: 0 10px;">Email</a>
+    <a href="https://github.com/lucasfr" target="_blank" style="color: #4FC3F7; text-decoration: none; margin: 0 12px; font-weight: 500;">GitHub</a>
+    <a href="https://discord.com/users/yourid" target="_blank" style="color: #7289da; text-decoration: none; margin: 0 12px; font-weight: 500;">Discord</a>
+    <a href="mailto:lucas@example.com" style="color: #FF7043; text-decoration: none; margin: 0 12px; font-weight: 500;">Email</a>
   </p>
 
 </div>
