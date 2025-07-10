@@ -44,7 +44,7 @@
   <!-- Learning Section -->
   <h3 style="font-size: 22px; margin-bottom: 10px;">Currently Exploring</h3>
   <p style="color: #ccc; font-size: 16px;">
-    Diving into <strong>C#</strong>, <strong>React</strong>, <strong>Koltin</strong>
+    Diving into <strong>C#</strong>, <strong>React</strong>, <strong>Mobile Development</strong>
 
   <!-- Connect -->
   <p>
