@@ -38,7 +38,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" alt="React" />
     </a>
   </div>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasisud&show_icons=true&locale=en&layout=compact" alt="lucasisud" /></p>
 
@@ -46,12 +45,12 @@
 
   <hr style="margin: 50px auto; width: 200px; border: 1px solid #333;" />
 
-  <!-- Learning Section -->
+
   <h3 style="font-size: 22px; margin-bottom: 10px;">Currently Exploring</h3>
   <p style="color: #ccc; font-size: 16px;">
     Diving into <strong>C#</strong>, <strong>React</strong>, <strong>Mobile Development</strong>
 
-  <!-- Connect -->
+ 
   <p>
 
   </p>
