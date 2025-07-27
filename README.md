@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning **React, mobile development**
 
 <h3 align="left">Connect with me:</h3>
+<p>Discord: rawbuffer</p>
 <p align="left">
 </p>
 
